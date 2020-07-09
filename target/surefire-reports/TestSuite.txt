@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 15.764 s <<< FAILURE! - in TestSuite
+Validate_Gallery_link(TestCases.Techved_Fitness_home)  Time elapsed: 0.283 s  <<< FAILURE!
+java.lang.AssertionError: expected [1] but found [5]
+	at TestCases.Techved_Fitness_home.Validate_Gallery_link(Techved_Fitness_home.java:63)
+
